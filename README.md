@@ -1,3 +1,3 @@
 # Python
 
-In This Branch We Will Be Learning how to make fuctions In python
+In This Branch We Will Be Learning how to forever loops In python
